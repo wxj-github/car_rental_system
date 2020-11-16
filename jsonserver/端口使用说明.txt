@@ -1,0 +1,3 @@
+cd到json文件的当前目录，再执行下列命令
+json-server --watch car.json
+
